@@ -1,10 +1,18 @@
-### Hi there 👋, my name is Alex
-#### QA Engineer
+# Alex Owens | QA Engineer
 <!--![QA Engineer]() -->
 
-
 - 🔭 I’m currently working on this page. 
-- 📫 How to reach me: alexowensQA@gmail.com 
+- 📫 How to reach me: alexowensQA@gmail.com
+
+## Skills and Experience
+* Test Planning
+* Test Case Creation, Management
+* Accessibility Testing
+* HTML, CSS, Basic JS
+* More examples here
+
+## Examples of Work
+<!--<img src="" width="512" > -->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/exzo-14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alex-owens-qa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](placeholder)  
 
