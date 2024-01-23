@@ -1,4 +1,4 @@
-# Alex Owens | QA Engineer
+# Alex Owens | QA Engineer | Accessibility Specialist
 <!--![QA Engineer]() -->
 
 - 🔭 I’m currently working on this page. 
