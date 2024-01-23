@@ -6,12 +6,11 @@
 
 ## Skills and Experience
 * Software Quality Assurance
-* Accessibility Testing
+* Accessibility Testing (508, ADA)
 * Test Automation (Selenium, Playwright)
-* Test Planning
-* Test Case Authoring, Management
+* Test Planning, Test Case Authoring and Management (TestRail, Jira, Confluence)
 * JavaScript, HTML, CSS
-* More examples here
+  
 
 ## Examples of Work
 <!--<img src="" width="512" > -->
