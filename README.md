@@ -5,10 +5,10 @@
 - 📫 How to reach me: alexowensQA@gmail.com
 
 ## Skills and Experience
-* Test Planning
-* Test Case Creation, Management
 * Accessibility Testing
-* HTML, CSS, Basic JS
+* Test Planning
+* Test Case Authoring, Management
+* JavaScript, HTML, CSS
 * More examples here
 
 ## Examples of Work
