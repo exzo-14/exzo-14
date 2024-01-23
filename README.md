@@ -7,6 +7,7 @@
 ## Skills and Experience
 * Software Quality Assurance
 * Accessibility Testing
+* Test Automation (Selenium, Playwright)
 * Test Planning
 * Test Case Authoring, Management
 * JavaScript, HTML, CSS
