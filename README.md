@@ -5,6 +5,7 @@
 - 📫 How to reach me: alexowensQA@gmail.com
 
 ## Skills and Experience
+* Software Quality Assurance
 * Accessibility Testing
 * Test Planning
 * Test Case Authoring, Management
