@@ -2,7 +2,7 @@
 <!--![QA Engineer]() -->
 
 - 🔭 I’m currently working on this page. 
-- 📫 How to reach me: alex@testace.io
+- 📫 How to reach me: alexowensQA@gmail.com
 
 ## Skills and Experience
 * Software Quality Assurance
