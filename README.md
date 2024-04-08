@@ -1,4 +1,4 @@
-# Alex Owens | QA Engineer | Accessibility Specialist
+# Alex Owens | Quality Engineer | Accessibility Specialist
 <!--![QA Engineer]() -->
 
 - 🔭 I’m currently working on this page. 
@@ -9,7 +9,6 @@
 * Accessibility Testing (508, ADA)
 * Test Automation (Selenium, Playwright)
 * Test Planning, Test Case Authoring and Management (TestRail, Jira, Confluence)
-* JavaScript, HTML, CSS
   
 
 ## Examples of Work
